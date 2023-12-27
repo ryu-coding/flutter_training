@@ -11,7 +11,7 @@ class User{
       : this.name = map['name'],
         this.age = map['age'];
 
-  void Info(){
+  void Introduction(){
       print('My Name Is ${this.name}.And Age is ${this.age} years.');
   }
 }

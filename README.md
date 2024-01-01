@@ -22,7 +22,7 @@ Must Have Flutter Training.
 
 ### 🔍 Flutter Characteristic
 1. Dart Language.
-2. Difference.
+2. Differences from other languages
    1. Collection
       > <b> add() : Collection Add.</b> <br/>
       > <b> where() : Collection Filtering.</b> <br/>

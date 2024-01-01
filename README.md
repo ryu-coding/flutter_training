@@ -17,7 +17,8 @@ Must Have Flutter Training.
 > 4. terminal (cmd) Set-up → <b>flutter doctor</b> <br/>
 >    ⓐ [!] Android …. ⇒ “flutter doctor —android-licenses” <br/>
 >    ⓑ If a problem occurs in the previous step(ⓐ). <br/>
->     - Flutter config Android SDK : flutter config --android-sdk <path-to-sdk>
+>      &ensp;&ensp;&nbsp;[ERR] Android SDK Not found...<br/>
+>      &ensp;&ensp;&nbsp;[SOL] Flutter config Android SDK : flutter config --android-sdk <path-to-sdk>
 
 ### 🔍 Flutter Characteristic
 1. Dart Language.
